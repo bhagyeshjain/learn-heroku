@@ -1,12 +1,12 @@
-package com.bhagyesh.learnheroku;
+package com.bhagyesh.springbootheroku;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LearnHerokuApplication {
+public class SpringbootHerokuApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LearnHerokuApplication.class, args);
+		SpringApplication.run(SpringbootHerokuApplication.class, args);
 	}
 }
